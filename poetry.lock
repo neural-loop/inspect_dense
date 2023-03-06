@@ -1,0 +1,17 @@
+[[package]]
+name = "gitignore-parser"
+version = "0.1.3"
+description = "A spec-compliant gitignore parser for Python 3.5+"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.6"
+content-hash = "912520dbcb106416020e81e26304e32aacb50d34462210e322176cfb3c35b7bc"
+
+[metadata.files]
+gitignore-parser = [
+    {file = "gitignore_parser-0.1.3.tar.gz", hash = "sha256:d0150d81889251d00cde6cf38931ab5613ca1109f5b3905a232c8458ff0d6991"},
+]
