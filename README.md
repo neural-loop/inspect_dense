@@ -1,8 +1,8 @@
-inspect-dense
-==========
+<h1>inspect-dense by <a href="https://aimodels.org">AI Models</a></h1>
 
 inspect-dense is a Python package for recursively describing all python files in a directory. 
-Provides a simple way to get a high-level overview of a project's codebase in a conscise format to minimize tokens used.
+Provides a simple way to get a high-level overview of a project's codebase in a conscise format to minimize tokens used when developing code with AI systems.
+
 
 Installation
 ------------
